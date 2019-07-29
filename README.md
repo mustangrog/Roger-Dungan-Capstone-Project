@@ -1,6 +1,6 @@
 #Roger-Dungan-Capstone-Project
 
-###**Documentation**
+###**Documentation**###
 
 **Definition of audience**-This project is intended for people that are considering purchasing an Electric Vehicle (EV).  This web app will include some educational items as well as help them decide based on their driving styles and needs.
 
