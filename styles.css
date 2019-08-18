@@ -1,6 +1,6 @@
 header{
     text-align: center;
-    text-shadow: 3px;
+    text-shadow: 2px 2px rgb(200, 207, 214);
 }
 
 main{
@@ -11,9 +11,6 @@ main{
     opacity: 0.4;
 }
 
-.heading{
-    text-align: center;
-}
 p{
     padding: 20px;
     background: rgba(0, 0, 0, 0.6);
