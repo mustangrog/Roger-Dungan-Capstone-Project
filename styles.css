@@ -1,7 +1,7 @@
 header{
     text-align: center;
     text-shadow: 2px 2px rgb(200, 207, 214);
-    font-size: 1.25vw;
+    font-size: 1.5vw;
 }
 
 main{
@@ -12,7 +12,7 @@ main{
     opacity: 0.4;
 }
 
-p, ul{
+p{
     padding: 20px;
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
