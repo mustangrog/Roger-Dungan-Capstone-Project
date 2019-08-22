@@ -1,3 +1,11 @@
+footer ul{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px;
+    font-size: 2vw;
+    list-style: none;
+}
+
 header{
     text-align: center;
     text-shadow: 2px 2px rgb(200, 207, 214);
@@ -10,6 +18,14 @@ main{
     background-size: 100%;
     background-attachment: fixed;
     opacity: 0.4;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    font-size: 2vw;
+    list-style: none;
 }
 
 p{
