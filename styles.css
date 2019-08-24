@@ -15,6 +15,14 @@
     padding: 3px;
 }
 
+.column{
+    float: left;
+    margin-left: 1.5px;
+    width: 33%;
+    border: 1px solid black;
+}
+
+
 footer ul{
     display: flex;
     justify-content: space-evenly;
@@ -27,6 +35,11 @@ header{
     text-align: center;
     text-shadow: 2px 2px rgb(200, 207, 214);
     font-size: 1.5vw;
+}
+
+h2{
+    text-align: center;
+    text-shadow: 2px 2px rgb(135, 137, 138);
 }
 
 .home {
@@ -63,4 +76,10 @@ p{
     line-height: 2em;
     font-size: 1.25vw;
     text-align: justify;
+}
+
+.row:after{
+    content: "";
+    display: table;
+    clear:  both;
 }
