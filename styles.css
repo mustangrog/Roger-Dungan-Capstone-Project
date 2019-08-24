@@ -17,7 +17,7 @@
 
 .column{
     float: left;
-    margin-left: 1.5px;
+    margin-left: 1.5px; 
     width: 33%;
     border: 1px solid black;
 }
