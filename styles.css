@@ -1,28 +1,3 @@
-.aboutMe{
-    float: right;
-    margin-left: 10px;
-    margin-bottom: 5px;
-    border: solid black 1px;
-    padding: 3px;  
-}
-
-.aboutVolt{
-    float: left;
-    margin-left: 0px;
-    margin-bottom: 5px;
-    margin-right: 10px;
-    border: solid black 1px;
-    padding: 3px;
-}
-
-.column{
-    float: left;
-    margin-left: 1.5px; 
-    width: 33%;
-    border: 1px solid black;
-}
-
-
 footer ul{
     display: flex;
     justify-content: space-evenly;
@@ -40,14 +15,6 @@ header{
 h2{
     text-align: center;
     text-shadow: 2px 2px rgb(135, 137, 138);
-}
-
-.home {
-    float: right;
-    margin-left: 10px;
-    margin-bottom: 5px;
-    border: solid black 1px;
-    padding: 3px;    
 }
 
 main{
@@ -76,6 +43,48 @@ p{
     line-height: 2em;
     font-size: 1.25vw;
     text-align: justify;
+}
+
+.aboutMe{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    border: solid black 1px;
+    padding: 3px;  
+}
+
+.aboutVolt{
+    float: left;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    border: solid black 1px;
+    padding: 3px;
+}
+
+.column{
+    float: left;
+    margin-left: 5px;
+    width: 32.4vw;
+    border: 2px solid black;
+}
+
+.learnPrius{
+    width: 100%;
+    height: auto;
+}
+
+.learnInsight{
+    width: 100%;
+    height: auto;
+}
+
+.home {
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    border: solid black 1px;
+    padding: 3px;    
 }
 
 .row:after{
