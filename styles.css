@@ -62,6 +62,34 @@ p{
     padding: 3px;
 }
 
+.cta-btn-choose {
+    align-items: center;
+    background: rgb(221, 216, 216);
+    border-radius: 5%;
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.cta-btn-choose:focus,
+.cta-btn-choose:hover {
+    background-color: rgb(253, 249, 13);
+    transition: 0.25s;
+    transform:  translateY(-3px);
+}
+
+.cta-div-learn{
+    display: flex;
+    justify-content: center;
+}
+
+.cta-div-home{
+    display: flex;
+    justify-content: space-around;  
+}
+
 .column{
     float: left;
     margin-left: 5px;
