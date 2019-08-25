@@ -79,6 +79,16 @@ p{
     height: auto;
 }
 
+.learnVolt{
+    width: 100%;
+    height: auto;
+}
+
+.learnPacifica{
+    width: 100%;
+    height: auto;
+}
+
 .home {
     float: right;
     margin-left: 10px;
