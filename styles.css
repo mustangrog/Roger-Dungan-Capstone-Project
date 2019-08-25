@@ -89,6 +89,16 @@ p{
     height: auto;
 }
 
+.learnLeaf{
+    width: 100%;
+    height: auto;
+}
+
+.learnModelS{
+    width: 100%;
+    height: auto;
+}
+
 .home {
     float: right;
     margin-left: 10px;
