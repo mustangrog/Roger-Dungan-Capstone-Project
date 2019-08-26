@@ -97,6 +97,22 @@ p{
     border: 2px solid black;
 }
 
+.hevDetailPrius{
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    border: solid black 1px;
+    padding: 3px;  
+}
+
+.hevDetailFusion{
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    border: solid black 1px;
+    padding: 3px;  
+}
+
 .learnPrius{
     width: 100%;
     height: auto;
