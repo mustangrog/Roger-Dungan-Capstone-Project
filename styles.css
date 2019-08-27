@@ -123,6 +123,8 @@ p{
 
 .input-group{
     margin: 20px 0;
+    margin-left: 20px;
+    
 }
 
 .input-group--flex {
