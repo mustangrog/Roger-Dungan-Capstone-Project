@@ -18,7 +18,7 @@ h2{
 }
 
 main{
-    background-image: url('nikola_tesla.jpg');
+    background-image: url('../images/nikola_tesla.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment: fixed;
