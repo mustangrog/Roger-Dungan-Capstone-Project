@@ -122,15 +122,16 @@ p{
 }
 
 .input-group{
-    margin: 20px 0;
-    margin-left: 20px;
+    margin: 30px;
+    margin-left: 30vw;
     
 }
 
 .input-group--flex {
     display: flex;
     flex-direction: column;
-    max-width: 25%;
+    max-width: 40vw;
+    color: #fff;
 }
 
 .learnPrius{
@@ -175,4 +176,9 @@ p{
     content: "";
     display: table;
     clear:  both;
+}
+
+.submit-button{
+    background-color: rgb(135, 137, 138);
+    border: none;
 }
